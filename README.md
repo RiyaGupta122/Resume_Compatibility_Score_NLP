@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Chart.js](https://www.chartjs.org/) for data visualization
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Lucide](https://lucide.dev/) for icons
-- [https://regal-rabanadas-cb935e.netlify.app/]-Deployed Link
+- [https://regal-rabanadas-cb935e.netlify.app/]  -Deployed Link
 ## Contact
 
 Your Name - [RiyaGupta]
