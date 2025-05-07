@@ -117,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@RiyaGupta]
-Project Link: [https://github.com/yourusername/resumatch](https://github.com/yourusername/resumatch)
+Your Name - [RiyaGupta]
+Project Link: (https://github.com/RiyaGupta122/Resume_Compatibility_Score_NLP)
